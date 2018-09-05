@@ -18,7 +18,7 @@ public class Apptest extends SpringBootServletInitializer {
     }
 
     public static void main(String[] args) {
-        System.out.println("**********app********ddd*******");
+        System.out.println("**********app***************");
         SpringApplication.run(new Object[]{Apptest.class}, args);
     }
 }
