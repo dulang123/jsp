@@ -4,7 +4,7 @@ server:
 spring: 
   application:
     name: microservicecloud-zuul-gateway
-
+fff
 eureka: 
   client: 
     service-url: 
